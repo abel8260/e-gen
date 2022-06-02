@@ -1,0 +1,16 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"apisegenese"},
+{"type":"table","name":"apiresponse","database":"apisegenese","data":
+[
+{"id":"1","cod":"200","typ":"post","msg":"ok","tag":"commits"},
+{"id":"2","cod":"200","typ":"options","msg":"ok","tag":"commits"},
+{"id":"3","cod":"200","typ":"head","msg":"ok","tag":"commits"},
+{"id":"4","cod":"200","typ":"view","msg":"ok","tag":"commits"},
+{"id":"5","cod":"200","typ":"post","msg":"ok","tag":"posts"},
+{"id":"6","cod":"200","typ":"options","msg":"ok","tag":"posts"},
+{"id":"7","cod":"200","typ":"head","msg":"ok","tag":"posts"},
+{"id":"8","cod":"200","typ":"view","msg":"ok","tag":"posts"}
+]
+}
+]

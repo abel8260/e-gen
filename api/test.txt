@@ -1,0 +1,2 @@
+http://localhost:8080/e-genese/db/commits/mvc/rooter.php
+http://localhost:8080/e-genese/src/posts/mvc/rooter.php
