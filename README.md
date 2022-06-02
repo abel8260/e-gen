@@ -2,7 +2,7 @@
 a sample based pré upload system   
 
 
-## inciais configs:
+## iniciais configs:
 port db:  8080
 
 
